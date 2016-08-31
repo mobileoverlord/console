@@ -2,3 +2,4 @@
 -noshell
 -user Elixir.IEx.CLI
 -extra --no-halt
++iex --dot-iex /etc/iex.exs
